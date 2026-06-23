@@ -14,7 +14,7 @@ public:
         int result = 0;
         while(l<=r){
             if(nums[l] + nums[r] <= target){
-                result = result%MOD + pow2[r-l] % MOD;
+                result = (result + pow2[r-l]) % MOD;
                 l++;
             }
             else{
