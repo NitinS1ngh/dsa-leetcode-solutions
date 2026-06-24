@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
