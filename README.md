@@ -13,12 +13,14 @@
 | [0090-subsets-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +63,20 @@
 | ------- |
 | [0078-subsets](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
