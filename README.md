@@ -17,6 +17,7 @@
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [1189-maximum-number-of-balloons](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
