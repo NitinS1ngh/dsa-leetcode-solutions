@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -107,4 +108,16 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
