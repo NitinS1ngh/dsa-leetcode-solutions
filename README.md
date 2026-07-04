@@ -36,6 +36,7 @@
 | [0022-generate-parentheses](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -64,6 +65,7 @@
 | [0090-subsets-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
@@ -143,6 +146,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -159,6 +163,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
