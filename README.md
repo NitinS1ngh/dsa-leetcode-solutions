@@ -149,6 +149,7 @@
 | [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
