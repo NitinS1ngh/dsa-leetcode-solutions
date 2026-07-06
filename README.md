@@ -15,6 +15,7 @@
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [1288-remove-covered-intervals](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
