@@ -209,4 +209,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
