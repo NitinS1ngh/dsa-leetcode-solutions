@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -126,6 +127,7 @@
 | [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -160,6 +162,7 @@
 | [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -180,6 +183,7 @@
 | [0257-binary-tree-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -193,6 +197,7 @@
 | [0207-course-schedule](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
