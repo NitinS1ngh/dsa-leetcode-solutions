@@ -17,6 +17,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
