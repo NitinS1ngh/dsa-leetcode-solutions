@@ -11,17 +11,23 @@
  */
 class Solution {
 public:
-    priority_queue<int> pq;
+    int ans;
+    int count = 0;
     void solve(TreeNode* root, int k){
-        if(!root) return;
-        pq.push(root->val);
-        if(pq.size() > k) pq.pop();
+        if(!root) return ;
 
         solve(root->left,k);
+        
+        count++;
+        if(count == k){
+            ans = root->val;
+            return;
+        }
+
         solve(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
         solve(root,k);
-        return pq.top();
+        return ans;
     }
 };
