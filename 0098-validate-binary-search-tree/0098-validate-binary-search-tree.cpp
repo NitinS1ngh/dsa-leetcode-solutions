@@ -27,4 +27,6 @@ public:
         }
         return true;
     }
-};
+}; 
+// can also implement by maintaining a range min and max if val goes beyond the limit 
+// return false and at every recursion call update the limit 
