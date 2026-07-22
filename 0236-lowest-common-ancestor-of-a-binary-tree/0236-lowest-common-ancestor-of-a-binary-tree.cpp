@@ -1,37 +1,22 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
 class Solution {
 public:
-    bool found = false; // global flag to stop recursion once node found
-
-    void solve(TreeNode* root, TreeNode* node, vector<TreeNode*>& path) {
-        if (root == nullptr || found) return;  // stop if null or already found
-
-        path.push_back(root);
-
-        if (root == node) { // target found
-            found = true;
-            return;
-        }
-
-        solve(root->left, node, path);
-        solve(root->right, node, path);
-
-        if (!found) path.pop_back(); // backtrack only if not found
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> pathp;
-        vector<TreeNode*> pathq;
+        if(root==NULL || root==p || root==q) return root;
 
-        found = false;
-        solve(root, p, pathp);   // get path for p
+        TreeNode* left = lowestCommonAncestor(root->left, p, q);
+        TreeNode* right = lowestCommonAncestor(root->right, p, q);
 
-        found = false;
-        solve(root, q, pathq);   // get path for q
-
-        int i = 0;
-        while (i < pathp.size() && i < pathq.size() && pathp[i] == pathq[i])
-            i++;
-
-        return pathp[i - 1];
+        if(left == NULL) return right;
+        else if(right == NULL) return left;
+        else return root;
     }
 };
