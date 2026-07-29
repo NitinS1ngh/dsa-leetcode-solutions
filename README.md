@@ -21,6 +21,7 @@
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -154,6 +155,7 @@
 | [0733-flood-fill](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -163,6 +165,7 @@
 | [0130-surrounded-regions](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
@@ -264,6 +267,7 @@
 | [0733-flood-fill](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
 |  |
@@ -327,4 +331,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
