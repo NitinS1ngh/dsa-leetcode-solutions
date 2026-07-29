@@ -1,41 +1,35 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses, 0);
+    bool canFinish(int n, vector<vector<int>>& nums) {
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n,0);
+        for(auto &edges: nums){
+            int u = edges[0];
+            int v = edges[1];
 
-        for (int i = 0; i < prerequisites.size(); i++) {
-            int course = prerequisites[i][0];
-            int prerequisite = prerequisites[i][1];
-            adj[prerequisite].push_back(course);
-            indegree[course]++;
+            adj[u].push_back(v);
+            indegree[v]++;
         }
 
         queue<int> q;
 
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
-                q.push(i);
-            }
+        for(int i=0; i<n; i++){
+            if(indegree[i] == 0) q.push(i);
         }
 
-        int count = 0;
-
-        while (!q.empty()) {
+        while(!q.empty()){
             int node = q.front();
             q.pop();
-            count++;
 
-            for (int i = 0; i < adj[node].size(); i++) {
-                int neighbor = adj[node][i];
-                indegree[neighbor]--;
-
-                if (indegree[neighbor] == 0) {
-                    q.push(neighbor);
-                }
+            for(auto &neighbour: adj[node]){
+                indegree[neighbour]--;
+                if(indegree[neighbour] == 0) q.push(neighbour);
             }
         }
 
-        return count == numCourses;
+        for(int i=0; i<indegree.size(); i++){
+            if(indegree[i] != 0) return false;
+        }
+        return true;
     }
 };
