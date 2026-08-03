@@ -3,31 +3,44 @@ public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         vector<vector<pair<int,int>>> adj(n);
         for (int i = 0; i < flights.size(); i++) {
-            int u = flights[i][0], v = flights[i][1], w = flights[i][2];
+            int u = flights[i][0];
+            int v = flights[i][1];
+            int w = flights[i][2];
+
             adj[u].push_back({v, w});
         }
 
-        priority_queue<tuple<int,int,int>, vector<tuple<int,int,int>>, greater<>> pq;
-        pq.push({0, src, 0});
+        vector<int> dis(n,INT_MAX);
+        
+        queue<pair<int,int>> q;
+        q.push({src,0});
+        dis[src] = 0;
+        int steps = 0;
 
-        vector<int> minStops(n, INT_MAX); // minimum stops used to reach a node
+        while(!q.empty() && steps<=k){
+            int size = q.size();
 
-        while (!pq.empty()) {
-            auto [cost, node, stops] = pq.top();
-            pq.pop();
+            while(size--){
+                int node = q.front().first;
+                int cost = q.front().second;
 
-            if (node == dst) return cost;
-            if (stops > k) continue;
-            if (stops >= minStops[node]) continue;
+                q.pop();
 
-            minStops[node] = stops;
+                for(auto &it: adj[node]){
+                    int neib = it.first;
+                    int wt = it.second;
 
-            for (int j = 0; j < adj[node].size(); j++) {
-                int next = adj[node][j].first;
-                int price = adj[node][j].second;
-                pq.push({cost + price, next, stops + 1});
+                    if(dis[neib] > cost + wt){
+                        dis[neib] = cost + wt;
+                        q.push({neib,cost+wt});
+                    }
+                }
             }
+            steps++;
         }
-        return -1;
+
+        if(dis[dst] != INT_MAX) return dis[dst];
+        else return -1;
+        
     }
 };
