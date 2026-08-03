@@ -75,6 +75,7 @@
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -317,12 +318,14 @@
 | [0785-is-graph-bipartite](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
 |  |
 | ------- |
@@ -380,8 +383,10 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
