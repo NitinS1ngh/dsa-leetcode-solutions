@@ -27,7 +27,6 @@ public:
             if (dis > dist[node]) continue;
 
             for (auto &[next, wt] : adj[node]) {
-
                 if (dis + wt < dist[next]) {
                     dist[next] = dis + wt;
                     pq.push({dist[next], next});
