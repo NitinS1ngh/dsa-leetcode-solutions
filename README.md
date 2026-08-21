@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
