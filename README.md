@@ -28,6 +28,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1463-cherry-pickup-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -80,6 +81,7 @@
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1463-cherry-pickup-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -194,6 +196,7 @@
 | [1020-number-of-enclaves](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1463-cherry-pickup-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
