@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
@@ -309,6 +310,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -392,4 +394,8 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
