@@ -17,6 +17,7 @@
 | [0090-subsets-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -77,6 +78,7 @@
 | [0022-generate-parentheses](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
