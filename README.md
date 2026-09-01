@@ -21,6 +21,7 @@
 | [0130-surrounded-regions](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0733-flood-fill) |
@@ -81,6 +82,7 @@
 | [0120-triangle](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0416-partition-equal-subset-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1463-cherry-pickup-ii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -406,4 +408,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
