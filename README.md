@@ -22,6 +22,7 @@
 | [0130-surrounded-regions](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0303-range-sum-query-immutable](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0542-01-matrix) |
@@ -149,6 +150,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search Tree
 |  |
 | ------- |
