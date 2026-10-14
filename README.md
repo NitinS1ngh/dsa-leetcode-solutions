@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NitinS1ngh/dsa-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
